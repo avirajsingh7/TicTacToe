@@ -143,5 +143,3 @@ elif(int(evaluate(Board))==-10):
     print("Player 2 is winner")
 else:
     print("Game is Draw")
- 
-
